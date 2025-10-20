@@ -1,2 +1,2 @@
-# SpeedpdfEditor
-Installer files for SpeedpdfEditor
+# Speedpdf Editor
+Installer files for Speedpdf Editor
